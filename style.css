@@ -65,8 +65,28 @@
   justify-content: space-around;
   text-align: center;
 }
-.icon{
+.icon1{
   width: 300px;
   height: 300px;
   border: 1px solid black;
+}
+
+.mind-set-bgrd{
+  background-image:url("images/watch.png");
+  background-repeat: no-repeat;
+  text-align: right;
+  height: 100vh;
+}
+.future h1{
+  color: #F8F8F8;
+font-family: Work Sans;
+font-size: 45px;
+font-weight: 700;
+}
+.future p{
+  color: #FFF;
+  font-family: Work Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
 }
